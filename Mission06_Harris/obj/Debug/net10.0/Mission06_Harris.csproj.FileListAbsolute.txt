@@ -212,3 +212,4 @@
 /Users/gavinharris/RiderProjects/JoelHiltonMissionSix/Mission06_Harris/obj/Debug/net10.0/Mission06_Harris.pdb
 /Users/gavinharris/RiderProjects/JoelHiltonMissionSix/Mission06_Harris/obj/Debug/net10.0/Mission06_Harris.genruntimeconfig.cache
 /Users/gavinharris/RiderProjects/JoelHiltonMissionSix/Mission06_Harris/obj/Debug/net10.0/ref/Mission06_Harris.dll
+/Users/gavinharris/RiderProjects/JoelHiltonMissionSix/Mission06_Harris/obj/Debug/net10.0/Mission06_Harris.sourcelink.json
